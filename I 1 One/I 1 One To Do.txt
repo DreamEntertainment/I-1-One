@@ -1,0 +1,11 @@
+Mechanics :
+- Speed increase every bounce.
+
+Menu make text blue background darker, like pink
+
+Bugs :
+- Correct clamp for player positions
+-angle the borders ever so slightly (just the colliders at first) to help the ball from getting stuck in loop
+
+#1 GET VERSION CONTROL CUNT
+Do game manager, so if something gets paused.
